@@ -1,0 +1,345 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "a<580,892+y",
+			"settings":
+			{
+				"buffer_size": 11,
+				"line_ending": "Windows",
+				"name": "a<580,892+y"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: INSTALL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"https://www.microsoft.com/en-us/sql-server/sql-server-editions-express"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/HP/Desktop/lusso/lussotheme/product.php",
+		"/C/Users/HP/Desktop/lusso/lussotheme/about.php",
+		"/C/Users/HP/Desktop/lusso/lussotheme/gallery.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Users/HP/Desktop/lusso/lussotheme/homepage.php",
+		"/C/Users/HP/Desktop/Herbs/herbfox/page-full.php",
+		"/C/Users/HP/Desktop/Herbs/herbfox/style.css",
+		"/C/Users/HP/Desktop/Herbs/herbfox/header.php",
+		"/C/Users/HP/Desktop/Herbs/herbfox/page.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/page-video.php",
+		"/C/Users/HP/Desktop/Herbs/herbfox/footer.php",
+		"/C/Users/HP/Desktop/Herbs/herbfox/functions.php",
+		"/C/wamp64/www/velopro/wp-content/themes/velopro/style.css",
+		"/C/wamp64/www/velopro/wp-content/themes/velopro/footer.php",
+		"/C/wamp64/www/velopro/wp-content/themes/fountainheadtheme/functions.php",
+		"/C/wamp64/www/velopro/wp-content/themes/velopro/functions.php",
+		"/C/Users/HP/Desktop/lusso/lussotheme/functions.php",
+		"/C/Users/HP/Desktop/lusso/lussotheme/page-full.php",
+		"/C/Users/HP/Desktop/lusso/lussotheme/page.php",
+		"/C/Users/HP/Desktop/lusso/lussotheme/colors.php",
+		"/C/Users/HP/Desktop/Posao/FBEC/fbecentratainment/professionals.php",
+		"/C/Users/HP/Desktop/Posao/FBEC/fbecentratainment/homepage.php",
+		"/C/Users/HP/Desktop/Posao/FBEC/fbecentratainment/style.css",
+		"/C/Users/HP/Desktop/lusso/lussotheme/index.php",
+		"/C/Users/HP/Desktop/lusso/lussotheme/style2.css",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/page-faq.php",
+		"/C/Users/HP/Desktop/lusso/lussotheme/style.css",
+		"/C/Users/HP/Desktop/Minpolj/UZB/public_html/public_html/administrator/.htaccess",
+		"/C/Users/HP/Desktop/Minpolj/UZB/public_html/public_html/.htaccess",
+		"/C/Users/HP/Desktop/lusso/lussotheme/header.php",
+		"/C/Users/HP/AppData/Local/Temp/fz3temp-2/sidebar-contact.php",
+		"/C/Users/HP/Desktop/lusso/lussotheme/footer.php",
+		"/C/wamp64/www/brewzinga/wp-content/themes/brewzinga/style.css",
+		"/C/wamp64/www/brewzinga/wp-content/themes/brewzinga/style2.css",
+		"/C/wamp64/www/brewzinga/wp-content/themes/brewzinga/sass/theme/_child_theme.scss",
+		"/C/wamp64/www/velopro/wp-content/themes/fountainheadtheme/header.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/page-unit.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/header.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/functions.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/homepage.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/style.css",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/page-subunit.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/single.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/archive.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/index.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/archive-dokument.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/footer.php",
+		"/C/Users/HP/Desktop/Posao/FBEC/fbecentratainment/contact.php",
+		"/C/Users/HP/Desktop/Posao/FBEC/fbecentratainment/functions.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/js/theme-scripts.js",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/taxonomy-kategorije_dokumenta.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/page-docs.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/page-units.php",
+		"/C/Users/HP/Desktop/Posao/Ybc TV New/page-video.php",
+		"/C/Users/HP/Desktop/Posao/Ybc TV New/style.css",
+		"/C/Users/HP/Desktop/Posao/Ybc TV New/header-empty.php",
+		"/C/Users/HP/Desktop/Posao/Ybc TV New/sabiovideo.css",
+		"/C/Users/HP/Desktop/Posao/Ybc TV New/ybctv/sabiovideo.css",
+		"/C/Users/HP/Desktop/Posao/Ybc TV New/ybctv/style.css",
+		"/C/Users/HP/Desktop/Posao/Ybc TV New/header-longform.php",
+		"/C/Users/HP/Desktop/Posao/Ybc TV New/ybctv/homepage.php",
+		"/C/Users/HP/Desktop/Posao/Ybc TV New/ybctv/header.php",
+		"/C/Users/HP/Desktop/Posao/Ybc TV New/ybctv/page-sabio.php",
+		"/C/Users/HP/Desktop/Posao/Ybc TV New/ybctv/header-longform.php",
+		"/C/Users/HP/Desktop/Posao/Ybc TV New/ybctv/img/square_black_lg.png",
+		"/C/Users/HP/Desktop/Posao/Ybc TV New/ybctv/img/logo.png",
+		"/C/Users/HP/Desktop/Posao/Ybc TV New/ybctv/img/a_gray.svg",
+		"/C/Users/HP/Desktop/Posao/Ybc TV New/ybctv/img/arrow.png",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/page-contact.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/date.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/page-faq.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/page.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/taxonomy.php",
+		"/C/Users/HP/Desktop/Posao/rezpo.txt",
+		"/C/Users/HP/Desktop/Posao/Ybc TV New/footer-empty.php",
+		"/C/Users/HP/Desktop/Posao/Ybc TV New/page-longform.php",
+		"/C/Users/HP/Desktop/Minpolj/podaci.txt",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/podaci.txt",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/page-full.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/page-about.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/page-struktura.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/style2.css",
+		"/C/Users/HP/Desktop/Shopster/porto-child/style.css",
+		"/C/Users/HP/Desktop/Shopster/porto-child/woocommerce/checkout/payment.php",
+		"/C/Users/HP/Desktop/Shopster/porto-child/functions.php",
+		"/C/Users/HP/Desktop/Shopster/porto-child/woocommerce/checkout/form-checkout-v2.php",
+		"/C/Users/HP/Desktop/Shopster/porto-child/woocommerce/checkout/review-order.php",
+		"/C/Users/HP/Desktop/Shopster/porto-child/woocommerce/checkout/form-billing.php",
+		"/C/Users/HP/Desktop/Shopster/porto-child/woocommerce/checkout/form-pay.php",
+		"/C/Users/HP/Desktop/Shopster/porto-child/woocommerce/loop/loop-end.php",
+		"/C/Users/HP/Desktop/Shopster/porto-child/woocommerce/checkout/form-checkout.php",
+		"/C/Users/HP/Desktop/Shopster/porto-child/woocommerce/loop/orderby.php",
+		"/C/Users/HP/Desktop/Shopster/porto-child/woocommerce/loop/loop-start.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/search.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/template-parts/content-search.php",
+		"/C/Users/HP/Desktop/Shopster/porto-child/woocommerce/checkout/form-checkout-v1.php",
+		"/C/Users/HP/Desktop/novocom/dkpdf/dkpdf-index.php",
+		"/C/Users/HP/Desktop/Posao/BML/brilliantmindslabs/index.php",
+		"/C/Users/HP/Desktop/Posao/BML/brilliantmindslabs/page-bml.php",
+		"/C/wamp64/www/minis/configuration.php",
+		"/C/wamp64/www/minis/.htaccess",
+		"/C/wamp64/www/minis/administrator/.htaccess",
+		"/C/Users/HP/Downloads/download (19)",
+		"/C/wamp64/bin/apache/apache2.4.39/bin/php.ini",
+		"/C/Users/HP/Downloads/download (17)",
+		"/C/wamp64/www/minis/administrator/index.php",
+		"/C/Users/HP/Downloads/download (5)",
+		"/C/wamp64/www/minis/index.php",
+		"/C/wamp64/www/velopro/wp-content/themes/velopro/js/theme-scripts.js",
+		"/C/wamp64/www/brewzinga/wp-content/themes/brewzinga/js/theme-scripts.js",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/sidebar.php",
+		"/C/Users/HP/Desktop/Posao/BML/brilliantmindslabs/header.php",
+		"/C/Users/HP/Desktop/Posao/BML/brilliantmindslabs/footer.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/page-full-notitle.php",
+		"/C/wamp64/www/velopro/wp-content/themes/fountainheadtheme/archive.php",
+		"/C/wamp64/www/velopro/wp-content/themes/fountainheadtheme/index.php",
+		"/C/wamp64/www/brewzinga/wp-content/themes/brewzinga/page-templates/homepage.php",
+		"/C/wamp64/www/brewzinga/wp-content/themes/brewzinga/woocommerce/archive-product.php",
+		"/C/wamp64/www/brewzinga/wp-content/themes/brewzinga/footer.php",
+		"/C/wamp64/www/brewzinga/wp-content/themes/brewzinga/header.php",
+		"/C/wamp64/www/brewzinga/wp-content/themes/brewzinga/functions.php",
+		"/C/wamp64/www/velopro/wp-content/themes/fountainheadtheme/footer.php",
+		"/C/Users/HP/Desktop/Minpolj/uzbmprs/page-home.php",
+		"/C/Users/HP/Downloads/fix/wp-content/plugins/google-analytics-premium/assets/css/images/index.php",
+		"/C/Users/HP/Downloads/fix/wp-content/plugins/google-analytics-premium/assets/css/index.php",
+		"/C/Users/HP/Downloads/fix/wp-content/plugins/google-analytics-premium/assets/css/select300/index.php",
+		"/C/Users/HP/Downloads/fix/wp-content/plugins/google-analytics-premium/assets/flags/4x3/index.php"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"auto_name": "a<580,892+y",
+							"default_dir": "C:\\Users\\HP\\Desktop\\lusso\\lussotheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 72.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": ",,.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
